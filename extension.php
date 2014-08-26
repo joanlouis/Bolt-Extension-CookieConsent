@@ -1,12 +1,24 @@
 <?php
 // Cookie Consent extension for Bolt
 
-namespace CookieConsent;
+namespace Bolt\Extensions\CookieConsent;
 
 use Bolt\Extensions\Snippets\Location as SnippetLocation;
 
 class Extension extends \Bolt\BaseExtension
 {
+
+    /**
+     * @var string Extension name
+     */
+    const NAME = 'CookieConsent';
+
+
+    public function getName()
+    {
+        return Extension::NAME;
+    }
+
 
     function info() {
 

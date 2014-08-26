@@ -1,0 +1,14 @@
+# For more information on the configuration options,
+#  see the docs and the demo in the assets folder
+
+privacyUrl: /page/privacy
+
+explicitConsent: false
+
+cookieLocation: top
+
+cookieScripts: 'Google Analytics'
+
+backgroundColor: #52b54a
+
+linkColor: #ffffff

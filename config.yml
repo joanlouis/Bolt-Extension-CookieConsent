@@ -2,7 +2,7 @@
 #  see the docs and the demo in the assets folder
 
 # points to page outlining you site's privacy policy
-privacyUrl: '/page/privacy'
+privacyUri: '/page/privacy'
 
 # In the UK implicit concent is perfectly okay - check what is needed in your region.
 explicitConsent: 'false'

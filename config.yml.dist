@@ -1,7 +1,7 @@
 # For more information on the configuration options,
 #  see the docs and the demo in the assets folder
 
-privacyUrl: /page/privacy
+privacyUri: /page/privacy
 
 explicitConsent: false
 

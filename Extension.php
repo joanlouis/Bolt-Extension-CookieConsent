@@ -42,7 +42,7 @@ class Extension extends \Bolt\BaseExtension
     function initialize() {
 
         // Add javascript file...
-        $this->addJavascript("assets/jquery.cookiesdirective.min.js");
+        $this->addJavascript("assets/jquery.cookiesdirective.min.js",true);
 
         // Add the consent script...
         $this->addSnippet(SnippetLocation::END_OF_BODY, 'insertConsent');

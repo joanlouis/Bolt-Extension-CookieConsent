@@ -1,5 +1,7 @@
 Cookie Consent
 ==============
+Cookie Consent extension for the Bolt CMS
+
 This extension inserts the Cookie Consent extension into your pages.
 Edit the `config.yml` to configure the extension.
 
